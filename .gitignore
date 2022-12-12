@@ -1,4 +1,5 @@
 *2022*
 *.pdf
-logs_
+logs_*
 library/*.zip
+.idea

@@ -4,3 +4,8 @@ logs_*
 library/*.zip
 .idea
 svastara
+*.users
+*.db
+*.properties
+*.keys
+*.pem
